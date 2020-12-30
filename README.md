@@ -67,6 +67,7 @@ fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${appId}&
 1. It is important to keep up with the latest versions of the technology you use. Refactor the code to use Async Await
 2. Implement error handling with the API response
 3. Try using a geoLocation button that checks for the user's current location.
+4. Recreate the project using other technologies: [Example](https://github.com/aar9nk/weather-app-react)
 
 
 ## Example
