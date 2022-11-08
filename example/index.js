@@ -1,5 +1,5 @@
 // Set appId
-const appId = 'SET APP ID HERE';
+const appId = '1d746361df4112d4a44339cc2fabd41b';
 
 // getDataForCity function that fetches weather info from openweathermap api
 const getDataForCity = city => fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${appId}&units=metric`)
